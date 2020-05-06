@@ -1,0 +1,3 @@
+The most important command in Linux/Unix: cowsay
+sudo apt install cowsay
+cowsay "Hallo world"
